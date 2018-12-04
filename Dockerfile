@@ -1,5 +1,5 @@
 FROM php:7.1-apache
-MAINTAINER Kristoph Junge <kristoph.junge@gmail.com>
+MAINTAINER ilexius GmbH <info@ilexius.de> 
 
 # Utilities
 RUN apt-get update && \
